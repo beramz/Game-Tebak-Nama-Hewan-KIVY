@@ -1,0 +1,22 @@
+[
+    {
+        "pertanyaan": "Apakah kamu tahu\n hewan apa ini?",
+        "gambar": "images/shark.png",
+        "jawaban": "hiu"
+    },
+    {
+        "pertanyaan": "Lihat disana ada hewan\n hewan apakah itu?",
+        "gambar": "images/turtle.png",
+        "jawaban": "penyu"
+    },
+    {
+        "pertanyaan": "Tahukah kamu\n hewan apa itu?",
+        "gambar": "images/octopus.png",
+        "jawaban": "gurita"
+    },
+    {
+        "pertanyaan": "Halo! apa kamu tahu\n siapa aku?",
+        "gambar": "images/dolphin.png",
+        "jawaban": "lumbalumba"
+    }
+]
